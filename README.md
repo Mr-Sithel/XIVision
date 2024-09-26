@@ -1,37 +1,40 @@
-#XIVision
-========
-##Version
+# XIVision
+
+Final Fantasy XI Labeled Map Dats
+
+## Description
+
 No real version number, just up to date as of 9-25-24
 
-####Description
-Labeled in game DAT maps for Final Fantasy XI Online
-
-####Private Servers
+### Private Servers
 This seems to work fine with private servers to. Either backup your map DATs or use the Pivot plugin.
-##Example: FFXI Horizon
-#Directory Location for Ashita Pivot: ...\HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\ [FFXI Vision Maps Location]
 
+### More to Come!
+We're working on more map compositions such as gathering, treasures, battle content, etc.
 
-####Install
+## Changes
 This is compressed with 7zip. Uncompress using that and copy the ROM folders to your FFXI directory choosing yes when prompted to overwrite any files.
-Make backups if you so choose, I'm not responsible for currupted dats. I currently use this with no issues.
-The FFXI directory is usually located at:
-#####32bit
-X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
-#####64bit
-X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
+Make backups if you so choose, I'm not responsible for currupted dats.
 
-####Steam
-#####32bit
-X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI
-#####64bit
-X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI
+### Private Sever Installation
+| Bit | Horizon XI Location |
+| :---: | :--: |
+| 64bit | ...\HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\ [FFXI Vision Maps Location] |
 
+### Retail Installation
+| Bit | Retail |
+| :---: | :--: |
+| 32bit | X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\ |
+| 64bit | X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\ |
+
+### Steam Installation
+| Bit | Steam |
+| :---: | :--: |
+| 32bit | X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI |
+| 64bit | X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI |
 
 ####Credit
 I don't take credit for all these labeled maps. 
 I've collected them all over the years and made some minor updates along the way. 
 I zipped these up for a complete package and provided them to the community.
 Credit goes to everyone aout there that help create these!
-
-
