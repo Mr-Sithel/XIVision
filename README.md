@@ -9,9 +9,6 @@ No real version number, just up to date as of 9-25-24
 ### Private Servers
 This seems to work fine with private servers to. Either backup your map DATs or use the Pivot plugin.
 
-### More to Come!
-We're working on more map compositions such as gathering, treasures, battle content, etc.
-
 ## Changes
 This is compressed with 7zip. Uncompress using that and copy the ROM folders to your FFXI directory choosing yes when prompted to overwrite any files.
 Make backups if you so choose, I'm not responsible for currupted dats.
