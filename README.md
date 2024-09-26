@@ -8,8 +8,8 @@ Labeled in game DAT maps for Final Fantasy XI Online
 
 ####Private Servers
 This seems to work fine with private servers to. Either backup your map DATs or use the Pivot plugin.
-Example: FFXI Horizon
-Directory Location for Ashita Pivot: ...\HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\ [FFXI Vision Maps Location]
+##Example: FFXI Horizon
+#Directory Location for Ashita Pivot: ...\HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\ [FFXI Vision Maps Location]
 
 
 ####Install
