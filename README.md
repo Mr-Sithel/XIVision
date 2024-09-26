@@ -34,4 +34,4 @@ Make backups if you so choose, I'm not responsible for currupted dats.
 I don't take credit for all these labeled maps. 
 I've collected them all over the years and made some minor updates along the way. 
 I zipped these up for a complete package and provided them to the community.
-Credit goes to everyone aout there that help create these!
+Credit goes to everyone out there that help create these!
